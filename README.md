@@ -61,4 +61,4 @@ Pull request dan issue sangat diterima! Silakan fork repo ini dan buat fitur ata
 
 ### 📄 Lisensi
 
-LGPL 3.0 License — lihat file `LICENSE` untuk detail.
+LGPL 3.0 License — lihat file ['LICENSE'](LICENSE) untuk detail.
